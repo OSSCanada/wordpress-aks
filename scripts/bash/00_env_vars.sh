@@ -9,6 +9,6 @@ export $ACRNAME="rkwpacr"
 export $AKSCLUSTERNAME="rkaksname"
 
 ## Database deployment specific
-export $DBSERVERNAME
-export $DBADMINNAME
-export $DBADMINPASSWORD
+export $DBSERVERNAME="rkwpaksdb"
+export $DBADMINNAME="rkwpaksdb"
+export $DBADMINPASSWORD="Hell0World1!"

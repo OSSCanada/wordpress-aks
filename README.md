@@ -1,6 +1,6 @@
 # Wordpress on Azure Container Services (AKS)
 
-This lao is to provide a demo on how to build Wordpress in a Kubernetes Distributed Compute Cluster.
+This Lab is to provide a demo on how to build Wordpress in a Kubernetes Distributed Compute Cluster.
 
 ## Goals
 

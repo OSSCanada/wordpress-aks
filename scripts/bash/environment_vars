@@ -1,0 +1,5 @@
+#! /bin/bash
+export RANDNUM=$RANDOM
+export DCLOCATION="canadacentral"
+export RGNAME="wpaks$RANDNUM-rg"
+export AKSCLUSTERNAME="wpaks"$RANDNUM"cluster"
